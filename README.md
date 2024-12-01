@@ -1,5 +1,5 @@
 # A Remodified Version
-## Added AI player for single player mode
+- Added AI player for single player mode
 
 ## Remodified by: iamiscdev
 
