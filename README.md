@@ -1,7 +1,5 @@
-# A Remodified Version
+# A Remodified Version by iamiscdev
 - Added AI player for single player mode
-
-## Remodified by: iamiscdev
 
 # 8086-Assembly-Pong
 Classic game Pong programmed using the Assembly language
